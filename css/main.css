@@ -938,3 +938,37 @@ body {
     opacity: 0.7;
     cursor: pointer;
 }
+.logo-sup-gmail {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+
+.footer {}
+.content-footer
+ {
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.content-footer ul li{
+    margin: 14px 0 14px 0;
+    font-size: 20px;
+}
+.footer-contact{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 165px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.footer-contact img
+{
+    margin-left: 15px;
+    object-fit: contain;
+}
